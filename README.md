@@ -1,6 +1,8 @@
-# calculadoraimc
+# Calculadora de IMC
 
-A new Flutter application.
+O aplicativo tem como objetivo realizar um cálculo do IMC do usuário, através da informação do seu peso e altura.
+
+Com a meta de apronfundar no desenvolvimento mobile com o flutter, o aplicativo foi uma forma de adquirir experiência com a tecnologia.
 
 ## Getting Started
 
